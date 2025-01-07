@@ -1,0 +1,5 @@
+D:\CleanArchitecture.net8\LearnCleanArchitecture\CleanArchitecture.Infratructure\obj\Debug\net8.0\CleanArchitecture.Infratructure.csproj.AssemblyReference.cache
+D:\CleanArchitecture.net8\LearnCleanArchitecture\CleanArchitecture.Infratructure\obj\Debug\net8.0\CleanArchitecture.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture.net8\LearnCleanArchitecture\CleanArchitecture.Infratructure\obj\Debug\net8.0\CleanArchitecture.Infratructure.AssemblyInfoInputs.cache
+D:\CleanArchitecture.net8\LearnCleanArchitecture\CleanArchitecture.Infratructure\obj\Debug\net8.0\CleanArchitecture.Infratructure.AssemblyInfo.cs
+D:\CleanArchitecture.net8\LearnCleanArchitecture\CleanArchitecture.Infratructure\obj\Debug\net8.0\CleanArchitecture.Infratructure.csproj.CoreCompileInputs.cache
